@@ -1,5 +1,8 @@
 <div align="center">
 
+![Auditor AI](https://github.com/user-attachments/assets/6021762f-a350-40c8-a6b0-f76bc78d2aac)
+
+
 # 🤖 GitHub Repo Auditor AI 🔍
 
 **Audit, analyze, and improve your GitHub repositories in seconds with the power of AI.**
