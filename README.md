@@ -4,6 +4,8 @@
 
 **Audit, analyze, and improve your GitHub repositories in seconds with the power of AI.**
 
+[GitHub Repo Auditor AI](https://github-repo-auditor-ai-95485695052.us-west1.run.app)
+
 **Auditez, analysez et améliorez vos dépôts GitHub en quelques secondes grâce à la puissance de l'IA.**
 
 </div>
